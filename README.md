@@ -30,4 +30,4 @@
 ### Credits
 * SONG, YeonJi
 * A large part of this course is modeled according to CS231n offered at the Stanford University.
-* This is the final project of the course `COMP4471/ELEC4240 Deep Learning for Computer Vision` by Prof. CHEN Qifeng in Fall 2020 at HKUST
+* This is the list of assignments of the course `COMP4471/ELEC4240 Deep Learning for Computer Vision` by Prof. CHEN Qifeng in Fall 2020 at HKUST
