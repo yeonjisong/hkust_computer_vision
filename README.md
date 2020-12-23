@@ -27,6 +27,11 @@
 * Understand and implement style transfer.
 * Understand how to train and implement a generative adversarial network (GAN) to produce images that look like a dataset.
 
+## Marks
+Assignment 1: 99
+Assignment 2: 100
+Assignment 3: 100
+
 ### Credits
 * SONG, YeonJi
 * A large part of this course is modeled according to CS231n offered at the Stanford University.
