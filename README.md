@@ -28,9 +28,9 @@
 * Understand how to train and implement a generative adversarial network (GAN) to produce images that look like a dataset.
 
 ## Marks
-Assignment 1: 99
-Assignment 2: 100
-Assignment 3: 100
+* Assignment 1: 99
+* Assignment 2: 100
+* Assignment 3: 100
 
 ### Credits
 * SONG, YeonJi
